@@ -14,4 +14,4 @@ The other zipfiles are mostly language resources for other langauge versions of 
 
 The other Java jars are:
 TensiStrength.jar (free for academic use, £1000 for commercial use, with SentiStrength)
-PeerJudge.jar (free for academic use, £1000 for commercial use, with SentiStrength)
+PeerJudgeProg.jar (free for academic use, £1000 for commercial use, with SentiStrength), use it with the files extracted from PeerJudgeLookupTables.zip
