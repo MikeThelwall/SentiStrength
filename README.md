@@ -16,3 +16,5 @@ The other Java jars are:
 TensiStrength.jar (free for academic use, £1000 for commercial use, with SentiStrength), use it with the files extracted from TensiStrength_Data.zip
 PeerJudgeProg.jar (free for academic use, £1000 for commercial use, with SentiStrength), use it with the files extracted from PeerJudgeLookupTables.zip
 The information in SentiStrengthJavaManual.doc is mostly applicable to both TensiStrength.jar and PeerJudgeProg.jar.
+
+The SentiStrength website is available here: https://mi-linux.wlv.ac.uk/~cm1993/sentistrength/ 
