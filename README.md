@@ -19,6 +19,6 @@ TensiStrength.jar (free for academic use, £1000 for commercial use, with SentiS
 PeerJudgeProg.jar (free for academic use, £1000 for commercial use, with SentiStrength), use it with the files extracted from PeerJudgeLookupTables.zip
 The information in SentiStrengthJavaManual.doc is mostly applicable to both TensiStrength.jar and PeerJudgeProg.jar.
 
-The SentiStrength website is available here: https://mi-linux.wlv.ac.uk/~cm1993/sentistrength/ 
+The SentiStrength website is available here: http://sentistrength.wlv.ac.uk/ or here https://mi-linux.wlv.ac.uk/~cm1993/sentistrength/ 
 
 If you get the error message, "This app can't run on your PC", make sure you have downloaded the program (>2Mb) not the information page (<1Mb). 
